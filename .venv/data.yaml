@@ -1,0 +1,5 @@
+train: C:\NeurKosti\.venv\train\images
+val: C:\NeurKosti\.venv\val\images
+
+nc: 6
+names: ['one', 'two', 'three', 'four', 'five', 'six']
